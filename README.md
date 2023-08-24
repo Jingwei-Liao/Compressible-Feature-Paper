@@ -47,3 +47,8 @@ Unified Architecture Adaptation for Compressed Domain Semantic Inference
 [
   [TCSVT 2023](https://ieeexplore.ieee.org/abstract/document/10029924)
 ]
+
+Image Coding for Machines with Omnipotent Feature Learning
+[
+  [ECCV 2022](https://arxiv.org/pdf/2207.01932.pdf)
+]
