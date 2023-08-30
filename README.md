@@ -1,5 +1,32 @@
-# Compressible-Feature-Paper
+# Understanding Compressed Image Feature w Reconstruction
+Towards Image Understanding from Deep Compression without Decoding
+[
+  [ICLR 2018](https://arxiv.org/pdf/1803.06131.pdf)
+  |
+  [None]
+]
 
+Learning from the CNN-based Compressed Domain
+[
+  [WACV 2022](https://openaccess.thecvf.com/content/WACV2022/papers/Wang_Learning_From_the_CNN-Based_Compressed_Domain_WACV_2022_paper.pdf)
+  |
+  [None]
+]
+
+# Understanding Compressed Image Feature w/o Reconstruction
+Lossy Compression for Lossless Prediction
+[
+  [NIPS 2021](https://arxiv.org/pdf/2106.10800.pdf)
+  |
+  [CLIP](https://github.com/YannDubs/lossyless)
+]
+
+Image Coding for Machines with Omnipotent Feature Learning
+[
+  [ECCV 2022](https://arxiv.org/pdf/2207.01932.pdf)
+  |
+  [None]
+]
 
 # Understanding Compressed Image Feature
 Towards Image Understanding from Deep Compression without Decoding
