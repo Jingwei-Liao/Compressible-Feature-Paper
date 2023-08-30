@@ -28,6 +28,13 @@ Image Coding for Machines with Omnipotent Feature Learning
   [None]
 ]
 
+Prompt-ICM: A Unified Framework towards Image Coding for Machines with Task-driven Prompts
+[
+  [arxiv 2023](https://arxiv.org/pdf/2305.02578.pdf)
+  |
+  [None]
+]
+
 # Understanding Compressed Image Feature
 Towards Image Understanding from Deep Compression without Decoding
 [
