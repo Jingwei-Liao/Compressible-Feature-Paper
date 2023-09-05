@@ -35,6 +35,14 @@ Prompt-ICM: A Unified Framework towards Image Coding for Machines with Task-driv
   [None]
 ]
 
+Unified Architecture Adaptation for Compressed Domain Semantic Inference
+[
+  [TCSVT 2023](https://ieeexplore.ieee.org/abstract/document/10029924)
+  |
+  [None]
+]
+
+
 # Understanding Compressed Image Feature
 Towards Image Understanding from Deep Compression without Decoding
 [
